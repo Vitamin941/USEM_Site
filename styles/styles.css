@@ -18,7 +18,7 @@
     align-items: center;
     opacity: 0.8;
     justify-content: space-between;
-    background-image: url('/images/Baikal.jpg');
+    /* background-image: url('/images/Baikal.jpg'); */
     background-size: 100% 100%;
     width: 100vw;
     height: 20vh;
