@@ -162,4 +162,12 @@ footer {
     flex-direction: column;
 }
 
+td {
+    border-bottom: 1px black dashed;
+}
+
+.table-head {
+    border-bottom: 1px black solid;
+}
+
 
